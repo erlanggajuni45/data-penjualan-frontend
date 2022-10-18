@@ -1,0 +1,21 @@
+export const GET_TRX = 'GET_TRX';
+export const GET_TRX_SUCCESS = 'GET_TRX_SUCCESS';
+export const GET_TRX_FAILED = 'GET_TRX_FAILED';
+
+export const ADD_TRX = 'ADD_TRX';
+export const ADD_TRX_SUCCESS = 'ADD_TRX_SUCCESS';
+export const ADD_TRX_FAILED = 'ADD_TRX_FAILED';
+
+export const DELETE_TRX = 'DELETE_TRX';
+export const DELETE_TRX_SUCCESS = 'DELETE_TRX_SUCCESS';
+export const DELETE_TRX_FAILED = 'DELETE_TRX_FAILED';
+
+export const EDIT_TRX = 'EDIT_TRX';
+export const EDIT_TRX_SUCCESS = 'EDIT_TRX_SUCCESS';
+export const EDIT_TRX_FAILED = 'EDIT_TRX_FAILED';
+
+export const UPDATE_TRX = 'UPDATE_TRX';
+export const UPDATE_TRX_SUCCESS = 'UPDATE_TRX_SUCCESS';
+export const UPDATE_TRX_FAILED = 'UPDATE_TRX_FAILED';
+
+export const CLEAR_TRX_RESPONSE = 'CLEAR_TRX_RESPONSE';
